@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/courseList-React.git/static/css/main.44216834.css",
+    "main.js": "/courseList-React.git/static/js/main.df686868.js",
+    "static/js/787.a94a4c69.chunk.js": "/courseList-React.git/static/js/787.a94a4c69.chunk.js",
+    "index.html": "/courseList-React.git/index.html",
+    "main.44216834.css.map": "/courseList-React.git/static/css/main.44216834.css.map",
+    "main.df686868.js.map": "/courseList-React.git/static/js/main.df686868.js.map",
+    "787.a94a4c69.chunk.js.map": "/courseList-React.git/static/js/787.a94a4c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44216834.css",
+    "static/js/main.df686868.js"
+  ]
+}
